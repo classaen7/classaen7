@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![Sion](http://mazassumnida.wtf/api/v2/generate_badge?boj=classaen7)](https://solved.ac/classaen7)
+
 <!--
 **classaen7/classaen7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
